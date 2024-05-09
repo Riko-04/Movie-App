@@ -1,0 +1,44 @@
+{
+  "movies": [
+    {
+      "id": "b00f",
+      "name": "Step Up 3D",
+      "director": "Jon M. Chu",
+      "writer": "Amy Andelson",
+      "genre": "Dance/Romance",
+      "imdb_rating": "6.2",
+      "duration": "107",
+      "image_link": "https://m.media-amazon.com/images/M/MV5BMTcxNDU2NTE4Nl5BMl5BanBnXkFtZTcwNzQ1MTEzMw@@._V1_.jpg"
+    },
+    {
+      "id": "96a2",
+      "name": "Inception",
+      "director": "Christopher Nolan",
+      "writer": "Christopher Nolan",
+      "genre": "Science Fiction",
+      "imdb_rating": "8.8",
+      "duration": "148",
+      "image_link": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_.jpg"
+    },
+    {
+      "id": "e242",
+      "name": "BFG",
+      "director": "Steven Spielberg",
+      "writer": "Amy Andelson",
+      "genre": "Family/Fantasy",
+      "imdb_rating": "7.5",
+      "duration": "156",
+      "image_link": "https://m.media-amazon.com/images/M/MV5BNjAzOTUzNTY3Ml5BMl5BanBnXkFtZTgwMjYwNzE5ODE@._V1_.jpg"
+    },
+    {
+      "id": "86c2",
+      "name": "The Shawshank Redemption",
+      "director": "Frank Darabont",
+      "writer": "Stephen King",
+      "genre": "Drama",
+      "imdb_rating": "9.3",
+      "duration": "142",
+      "image_link": "https://m.media-amazon.com/images/M/MV5BNDE3ODcxYzMtY2YzZC00NmNlLWJiNDMtZDViZWM2MzIxZDYwXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_.jpg"
+    }
+  ]
+}

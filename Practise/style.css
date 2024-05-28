@@ -1,0 +1,31 @@
+.information {
+    all: unset;
+    background: rgb(57, 149, 240);
+    color: azure;
+    border-radius: 9999px;
+    font-size: 0.6rem;
+    width: 0.7rem;
+    height: 0.7rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.information:hover {
+    background-color: rgb(52, 52, 211);
+}
+
+.label-container {
+    display: flex;
+    gap: 0.25rem;
+    padding: 0.2rem;
+}
+
+form {
+    margin-top: 10vh;
+}
+
+body {
+    height: 150vh;
+}
